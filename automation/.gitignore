@@ -1,2 +1,2 @@
-node_modules
-ethereum/build
+./node_modules
+./ethereum/build
