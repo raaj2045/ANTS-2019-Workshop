@@ -1,3 +1,4 @@
-./off-chain-storage/node_modules
-./on-chain-storage/node_modules
-./automation/node_modules
+.vscode
+off-chain-storage/node_modules
+on-chain-storage/node_modules
+automation/node_modules
